@@ -12,10 +12,10 @@ int main() {
     }
     else{
         if(x>y){
-            cout<<x<<"is larger\n";
+            cout<<x<<"    is larger\n";
         }
         else{
-            cout<<y<<"is larger\n";
+            cout<<y<<"    is larger\n";
         }
     }
     return 0;
