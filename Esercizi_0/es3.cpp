@@ -11,7 +11,7 @@ int main() {
     cout<<"Inserire il numero massimo dell'elenco\n";
     cin>>n;
     for(int i=1;i<=n;++i) {
-        cout<<i; 
+        cout<<i<<".\n"; 
     }
     return 0;
 }
