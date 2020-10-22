@@ -1,7 +1,7 @@
 using namespace std;
 #include <iostream> 
 int main() { // Prodotto di trè cifre;
-    int n=0;
+    int n;
     int x;
     int y;
     int z;
